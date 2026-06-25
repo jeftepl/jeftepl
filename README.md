@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!;Welcome+to+my+GitHub!;My+name+is+Jefté+Lima+:%29;I+am+a+Front-End+Software+Engineer;Building+modern+and+accessible+web+solutions!;Let's+collaborate+and+create+amazing+things!)](https://git.io/typing-svg) 
 
 ### About me
-I am a front-end software engineer with over 5 years of experience in building modern, accessible, and high-performance web solutions. Throughout my journey, I have worked on challenging projects ranging from optimized landing pages to full-scale applications, always striving for technical excellence and delivering exceptional user experiences.
+I am a front-end software engineer with over 8 years of experience in building modern, accessible, and high-performance web solutions. Throughout my journey, I have worked on challenging projects ranging from optimized landing pages to full-scale applications, always striving for technical excellence and delivering exceptional user experiences.
 
 ### Technologies
 <img 
